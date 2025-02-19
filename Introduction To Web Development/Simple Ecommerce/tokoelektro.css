@@ -11,14 +11,14 @@
 }
 
 .product-card img {
-    height: 200px; 
+    height: 300px; 
     object-fit: contain;
     width: 100%;
 }
 
 @media (max-width: 768px) {
     .product-card img {
-        height: 150px;
+        height: 500px;
     }
 }
 @media (max-width: 576px) {
@@ -40,5 +40,5 @@
 }
 
 .card-title a:hover {
-    color: #ff523b;
+    color: #f3432c;
 }
